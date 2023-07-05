@@ -1,4 +1,23 @@
-[![Free AI]([https://serp.ly/@serpai/badges/free-ai))](link-url)<div style="position:relative;width:299px;height:199.33333333333334px;">
+[![Free AI]([https://serp.ly/@serpai/badges/free-ai))]html>
+
+<head>
+    <!-- !paid redirect page -->
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-WMK7S48NH7');
+    </script>
+        <script type="text/javascript" src='https://www.googletagmanager.com/gtag/js?id=G-WMK7S48NH7'></script>
+    <meta http-equiv="refresh" content="0; url=https://badges.serp.ai/badges/free-ai.html">
+    <link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon"> 
+    <title>Free AI Badge | SERP AI</title>
+        <meta property="og:title" content="Free AI Badge | SERP AI" />
+        <meta property="og:type" content="website" />
+    
+</head>
+
+</html>
 
 
 
